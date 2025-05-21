@@ -14,7 +14,6 @@ Este repositorio está diseñado para proporcionar ejercicios prácticos y proye
 - [Instalación](#instalación)
 - [Ejercicios y Proyectos](#ejercicios-y-proyectos)
 - [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
 - [Autor](#autor)
 
 ---
@@ -32,8 +31,6 @@ El propósito de este repositorio es que los ingenieros de datos refuercen los c
 
 ## Estructura del Repositorio
 
-_Ejemplo (ajusta según tu organización real):_
-```
 /
 ├── notebooks/                # Notebooks principales con ejercicios y proyectos
 │   ├── 01_variables.ipynb
@@ -98,10 +95,6 @@ Cada notebook está enfocado en un tema específico. Algunos ejemplos de lo que 
 2. Crea una rama nueva (`git checkout -b mejora-ejercicio-x`).
 3. Realiza tus cambios y haz commit.
 4. Envía un Pull Request describiendo tus cambios.
-
-## Licencia
-
-Este proyecto actualmente no tiene una licencia definida. Si lo deseas, puedes agregar una (por ejemplo, MIT, Apache 2.0, GPL).
 
 ## Autor
 
